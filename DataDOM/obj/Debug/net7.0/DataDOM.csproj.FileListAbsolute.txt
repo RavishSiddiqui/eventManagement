@@ -1,0 +1,12 @@
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDOM\bin\Debug\net7.0\DataDOM.deps.json
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDOM\bin\Debug\net7.0\DataDOM.dll
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDOM\bin\Debug\net7.0\DataDOM.pdb
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDOM\obj\Debug\net7.0\DataDOM.csproj.AssemblyReference.cache
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDOM\obj\Debug\net7.0\DataDOM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDOM\obj\Debug\net7.0\DataDOM.AssemblyInfoInputs.cache
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDOM\obj\Debug\net7.0\DataDOM.AssemblyInfo.cs
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDOM\obj\Debug\net7.0\DataDOM.csproj.CoreCompileInputs.cache
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDOM\obj\Debug\net7.0\DataDOM.dll
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDOM\obj\Debug\net7.0\refint\DataDOM.dll
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDOM\obj\Debug\net7.0\DataDOM.pdb
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDOM\obj\Debug\net7.0\ref\DataDOM.dll

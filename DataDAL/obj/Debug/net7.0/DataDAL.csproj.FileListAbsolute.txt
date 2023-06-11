@@ -1,0 +1,15 @@
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDAL\bin\Debug\net7.0\DataDAL.deps.json
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDAL\bin\Debug\net7.0\DataDAL.dll
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDAL\bin\Debug\net7.0\DataDAL.pdb
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDAL\bin\Debug\net7.0\DataDOM.dll
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDAL\bin\Debug\net7.0\DataDOM.pdb
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDAL\obj\Debug\net7.0\DataDAL.csproj.AssemblyReference.cache
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDAL\obj\Debug\net7.0\DataDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDAL\obj\Debug\net7.0\DataDAL.AssemblyInfoInputs.cache
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDAL\obj\Debug\net7.0\DataDAL.AssemblyInfo.cs
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDAL\obj\Debug\net7.0\DataDAL.csproj.CoreCompileInputs.cache
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDAL\obj\Debug\net7.0\DataDAL.csproj.CopyComplete
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDAL\obj\Debug\net7.0\DataDAL.dll
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDAL\obj\Debug\net7.0\refint\DataDAL.dll
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDAL\obj\Debug\net7.0\DataDAL.pdb
+C:\Users\Ravish Siddiqui\source\repos\RepositoryPractice\DataDAL\obj\Debug\net7.0\ref\DataDAL.dll

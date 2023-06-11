@@ -1,0 +1,227 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ravish Siddiqui\\source\\repos\\RepositoryPractice\\RepositoryPractice\\RepositoryPractice.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ravish Siddiqui\\source\\repos\\RepositoryPractice\\DataDAL\\DataDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ravish Siddiqui\\source\\repos\\RepositoryPractice\\DataDAL\\DataDAL.csproj",
+        "projectName": "DataDAL",
+        "projectPath": "C:\\Users\\Ravish Siddiqui\\source\\repos\\RepositoryPractice\\DataDAL\\DataDAL.csproj",
+        "packagesPath": "C:\\Users\\Ravish Siddiqui\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ravish Siddiqui\\source\\repos\\RepositoryPractice\\DataDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ravish Siddiqui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Ravish Siddiqui\\source\\repos\\RepositoryPractice\\DataDOM\\DataDOM.csproj": {
+                "projectPath": "C:\\Users\\Ravish Siddiqui\\source\\repos\\RepositoryPractice\\DataDOM\\DataDOM.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper.EntityFramework": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ravish Siddiqui\\source\\repos\\RepositoryPractice\\DataDOM\\DataDOM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ravish Siddiqui\\source\\repos\\RepositoryPractice\\DataDOM\\DataDOM.csproj",
+        "projectName": "DataDOM",
+        "projectPath": "C:\\Users\\Ravish Siddiqui\\source\\repos\\RepositoryPractice\\DataDOM\\DataDOM.csproj",
+        "packagesPath": "C:\\Users\\Ravish Siddiqui\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ravish Siddiqui\\source\\repos\\RepositoryPractice\\DataDOM\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ravish Siddiqui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ravish Siddiqui\\source\\repos\\RepositoryPractice\\RepositoryPractice\\RepositoryPractice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ravish Siddiqui\\source\\repos\\RepositoryPractice\\RepositoryPractice\\RepositoryPractice.csproj",
+        "projectName": "RepositoryPractice",
+        "projectPath": "C:\\Users\\Ravish Siddiqui\\source\\repos\\RepositoryPractice\\RepositoryPractice\\RepositoryPractice.csproj",
+        "packagesPath": "C:\\Users\\Ravish Siddiqui\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ravish Siddiqui\\source\\repos\\RepositoryPractice\\RepositoryPractice\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ravish Siddiqui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Ravish Siddiqui\\source\\repos\\RepositoryPractice\\DataDAL\\DataDAL.csproj": {
+                "projectPath": "C:\\Users\\Ravish Siddiqui\\source\\repos\\RepositoryPractice\\DataDAL\\DataDAL.csproj"
+              },
+              "C:\\Users\\Ravish Siddiqui\\source\\repos\\RepositoryPractice\\DataDOM\\DataDOM.csproj": {
+                "projectPath": "C:\\Users\\Ravish Siddiqui\\source\\repos\\RepositoryPractice\\DataDOM\\DataDOM.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
